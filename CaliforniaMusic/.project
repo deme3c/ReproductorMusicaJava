@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>CaliforniaMusic</name>
+	<comment></comment>
+	<projects>
+		<project>JFrame&amp;JPanel</project>
+		<project>layouts</project>
+		<project>MusicPlayerEnJava-master</project>
+		<project>player-mp3-java-master</project>
+		<project>Reproductor de musica</project>
+		<project>ReproductorMp3</project>
+		<project>ReproductorMp3-master</project>
+		<project>reproductormusica-main</project>
+		<project>tmp</project>
+		<project>Ventana</project>
+		<project>VentanaDesactivarBotones</project>
+		<project>VentanaGraphics</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>
